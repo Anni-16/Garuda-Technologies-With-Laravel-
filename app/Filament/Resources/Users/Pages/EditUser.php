@@ -1,0 +1,31 @@
+<?php
+
+namespace App\Filament\Resources\Users\Pages;
+
+use App\Filament\Resources\Users\UserResource;
+use Filament\Actions\DeleteAction;
+use Filament\Resources\Pages\EditRecord;
+use Filament\Notifications\Notification;
+
+class EditUser extends EditRecord
+{
+    protected static string $resource = UserResource::class;
+
+    protected function getRedirectUrl(): string
+    {
+        return $this->getResource()::getUrl('index');
+    }
+    protected function getCreatedNotification(): ?Notification
+    {
+        return Notification::make()
+            ->success()
+            ->title('User Updated')
+            ->body('The user has been updated successfully.');
+    }
+    protected function getHeaderActions(): array
+    {
+        return [
+            DeleteAction::make(),
+        ];
+    }
+}
