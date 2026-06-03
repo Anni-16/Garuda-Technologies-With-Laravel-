@@ -72,7 +72,7 @@
                                                      <div class="row g-0">
                                                          @foreach ($servicecategories as $category)
 
-                                                         <div class="col-lg-4">
+                                                         <div class="col-lg-3 col-md-6">
 
                                                              <ul class="mega-menu-item with-list parent-nav">
 
@@ -116,6 +116,10 @@
                                                          @endforeach
 
                                                      </div>
+                                                 </div>
+                                                 <div class="container text-end">
+                                                     <a href="{{ route('services') }}"> <i class="fa-solid fa-eye"></i>
+                                                                         View All Services</a>
                                                  </div>
                                              </div>
                                          </div>

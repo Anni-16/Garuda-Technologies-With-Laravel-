@@ -22,7 +22,7 @@ class ServiceController extends Controller
         // For Services Categories
         $servicecategories = ServiceCategory::where('is_active', 1)
             ->orderBy('created_at', 'asc')
-            ->limit(3)
+            ->limit(4)
             ->get();
 
         $servicecategories1 = ServiceCategory::where('is_active', 1)
@@ -47,7 +47,7 @@ class ServiceController extends Controller
         // For Services Categories
         $servicecategories = ServiceCategory::where('is_active', 1)
             ->orderBy('created_at', 'asc')
-            ->limit(3)
+            ->limit(4)
             ->get();
 
         // For Testimonial
@@ -96,7 +96,7 @@ class ServiceController extends Controller
         // For Services Categories
         $servicecategories = ServiceCategory::where('is_active', 1)
             ->orderBy('created_at', 'asc')
-            ->limit(3)
+            ->limit(4)
             ->get();
 
         //  For contact 

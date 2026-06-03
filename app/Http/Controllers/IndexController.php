@@ -20,7 +20,7 @@ class IndexController extends Controller
         // For Services Categories
         $servicecategories = ServiceCategory::where('is_active', 1)
             ->orderBy('created_at', 'asc')
-            ->limit(3)
+            ->limit(4)
             ->get();
 
         // For Teams
