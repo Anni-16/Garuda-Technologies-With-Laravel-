@@ -140,7 +140,7 @@
                 <div class="col-lg-12">
                     <div class="service-bg-style-one-wrapper">
                         <div class="row g-4 center">
-                            @foreach ($servicecategories as $category )
+                            @foreach ($servicecategories2 as $category)
                             <div class="col-lg-4 col-md-6">
                                 <div class="service-box">
                                     <div class="icons">
@@ -344,7 +344,7 @@
                 <!-- counter up area -->
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 four">
-                         <div class="icon">
+                        <div class="icon">
                             <img loading="lazy" src="{{ asset('font-end/assets/images/icons/01-1.svg') }}" alt="Business_counter">
                         </div>
                         <div class="counter-details">
@@ -373,7 +373,7 @@
                             </h2>
                             <p>Every project at Garuda Technologies — whether an SEO campaign, a web application, a cloud migration, or a travel booking — follows a defined process. That structure is not bureaucracy. It is the reason clients receive consistent outcomes rather than inconsistent effort.</p>
                         </div>
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -388,7 +388,7 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="consultancy-style-one">
-                       <div class="signle-consultancy mb--30">
+                        <div class="signle-consultancy mb--30">
                             <div class="icon">
                                 <i class="fa-solid fa-1"></i>
                             </div>

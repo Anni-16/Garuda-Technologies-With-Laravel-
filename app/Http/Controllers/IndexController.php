@@ -23,6 +23,11 @@ class IndexController extends Controller
             ->limit(4)
             ->get();
 
+        $servicecategories2 = ServiceCategory::where('is_active', 1)
+            ->orderBy('created_at', 'asc')
+            ->limit(6)
+            ->get();
+
         // For Teams
         $teams = Team::with('category')
             ->where('is_featured', 1)
@@ -52,6 +57,6 @@ class IndexController extends Controller
         }
 
 
-        return view('welcome', compact('aboutus', 'servicecategories', 'teams', 'testimonials', 'blogs', 'contact'));
+        return view('welcome', compact('aboutus', 'servicecategories', 'servicecategories2', 'teams', 'testimonials', 'blogs', 'contact'));
     }
 }
