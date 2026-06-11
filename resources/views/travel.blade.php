@@ -42,7 +42,7 @@
                     "name": "How can I book international flights with Garuda Technologies?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "You can book international flights by calling +91-9910844235 or emailing info@garudatechnologies.co.in with your travel dates, destination, and passenger details. Our travel team shares the best available fare options within a few hours."
+                        "text": "You can book international flights by calling +91-8130150400 or emailing info@garudatechnologies.co.in with your travel dates, destination, and passenger details. Our travel team shares the best available fare options within a few hours."
                     }
                 },
                 {
@@ -215,7 +215,7 @@
                             <h2 class="title rts-text-anime-style-1">Travel Services in Gurgaon — Flights, Hotels, Cruises, and Car Rentals Through 7+ Specialist Travel Brands</h2>
                         </div>
                         <p class="disc">
-                            Garuda Technologies' travel division delivers flight booking, hotel reservations, cruise packages, and car rental services for individual travelers, families, business travelers, and corporate accounts across India. Seven specialized travel brands — Globalairhub, Zippoair, Tripsomaker, Airoflighticket, Airotrolly, Businessclassflyts, Globalairticketing and etc — operate under the Garuda Technologies umbrella, each focused on specific travel segments and booking categories. All bookings are supported by a 24/7 travel helpline at +91-9910844235 and managed from the Gurgaon headquarters.
+                            Garuda Technologies' travel division delivers flight booking, hotel reservations, cruise packages, and car rental services for individual travelers, families, business travelers, and corporate accounts across India. Seven specialized travel brands — Globalairhub, Zippoair, Tripsomaker, Airoflighticket, Airotrolly, Businessclassflyts, Globalairticketing and etc — operate under the Garuda Technologies umbrella, each focused on specific travel segments and booking categories. All bookings are supported by a 24/7 travel helpline at +91-8130150400 and managed from the Gurgaon headquarters.
 
                         </p>
                         <div class="call-and-sign-area">
@@ -460,7 +460,7 @@
                             <div class="information">
                                 <h4 class="title">24/7 booking support</h4>
                                 <p class="disc">
-                                    Travel emergencies and last-minute changes are handled by a live team at +91-9910844235 around the clock.
+                                    Travel emergencies and last-minute changes are handled by a live team at +91-8130150400 around the clock.
                                 </p>
                             </div>
                         </div>
@@ -522,7 +522,7 @@
                                 </div>
                                 <h5 class="title">Contact Us</h5>
                                 <p class="disc">
-                                    Call +91-9910844235 or email info@garudatechnologies.co.in with your travel dates, destination, number of travelers, and any preferences (cabin class, hotel category, etc.).
+                                    Call +91-8130150400 or email info@garudatechnologies.co.in with your travel dates, destination, number of travelers, and any preferences (cabin class, hotel category, etc.).
                                 </p>
                             </div>
                         </div>

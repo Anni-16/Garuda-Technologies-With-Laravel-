@@ -18,7 +18,7 @@
             "mainEntity": {
                 "@type": "Organization",
                 "name": "Garuda Technologies",
-                "telephone": "+91-9910844235",
+                "telephone": "+91-8130150400",
                 "email": "info@garudatechnologies.co.in",
                 "address": {
                     "@type": "PostalAddress",
@@ -108,7 +108,7 @@
                     <br>
                     <h5 style="font-size: 18px;">How to Find Us</h5>
                     <p class="disc">
-                        The Garuda Technologies office is located in Udyog Vihar Phase V, Sector 19, Gurugram — approximately 3 km from the Udyog Vihar Metro Station on the Delhi Metro Yellow Line. Parking is available at the complex. Visitors are recommended to call ahead at +91-9910844235 to schedule an in-person meeting.
+                        The Garuda Technologies office is located in Udyog Vihar Phase V, Sector 19, Gurugram — approximately 3 km from the Udyog Vihar Metro Station on the Delhi Metro Yellow Line. Parking is available at the complex. Visitors are recommended to call ahead at +91-8130150400 to schedule an in-person meeting.
                     </p>
 
                 </div>

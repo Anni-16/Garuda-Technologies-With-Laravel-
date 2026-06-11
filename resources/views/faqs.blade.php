@@ -34,7 +34,7 @@
                     "name": "How do I book a flight through Garuda Technologies?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Call +91-9910844235 or email info@garudatechnologies.co.in with your travel dates, destination, and number of passengers. A travel consultant responds within 2 to 4 hours with fare options."
+                        "text": "Call +91-8130150400 or email info@garudatechnologies.co.in with your travel dates, destination, and number of passengers. A travel consultant responds within 2 to 4 hours with fare options."
                     }
                 },
                 {
@@ -42,7 +42,7 @@
                     "name": "Does Garuda Technologies offer corporate travel accounts?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes. Corporate accounts receive GST invoicing, consolidated monthly billing, negotiated fares, and a dedicated travel manager. Contact +91-9910844235 to set up an account."
+                        "text": "Yes. Corporate accounts receive GST invoicing, consolidated monthly billing, negotiated fares, and a dedicated travel manager. Contact +91-8130150400 to set up an account."
                     }
                 }
             ]
@@ -71,7 +71,7 @@
                         <h1 class="title rts-text-anime-style-1" id="my-border">
                             Frequently Asked Questions — Garuda Technologies IT and Travel Services
                         </h1>
-                        <p class="disc">The questions below cover the most common inquiries Garuda Technologies receives about its IT services, digital marketing, web development, and travel booking services. If your question is not answered below, contact the team at <a href="tel:+919910844235">+91-9910844235</a> or <a href="mailto:info@garudatechnologies.co.in.">info@garudatechnologies.co.in.</a></p>
+                        <p class="disc">The questions below cover the most common inquiries Garuda Technologies receives about its IT services, digital marketing, web development, and travel booking services. If your question is not answered below, contact the team at <a href="tel:+918130150400">+91-8130150400</a> or <a href="mailto:info@garudatechnologies.co.in.">info@garudatechnologies.co.in.</a></p>
                     </div>
                 </div>
             </div>

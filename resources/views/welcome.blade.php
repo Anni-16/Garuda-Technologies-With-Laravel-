@@ -241,7 +241,7 @@
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">24/7 Support Availability : </b> Hosting failures, travel emergencies, and IT infrastructure issues do not follow business hours. The Garuda Technologies team is reachable at +91-9910844235 around the clock for critical issues across both service verticals.
+                                <b style="color: var(--color-heading-1);">24/7 Support Availability : </b> Hosting failures, travel emergencies, and IT infrastructure issues do not follow business hours. The Garuda Technologies team is reachable at +91-8130150400 around the clock for critical issues across both service verticals.
                             </div>
                         </div>
                     </div>
