@@ -1,3 +1,8 @@
+ <!-- Google Tag Manager (noscript) -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXWWF4SZ"
+         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->
+
  <header class="header-one header--sticky">
      <div class="header-top-area-wrapper">
          <div class="container">
@@ -119,7 +124,7 @@
                                                  </div>
                                                  <div class="container text-end">
                                                      <a href="{{ route('services') }}"> <i class="fa-solid fa-eye"></i>
-                                                                         View All Services</a>
+                                                         View All Services</a>
                                                  </div>
                                              </div>
                                          </div>

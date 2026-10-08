@@ -2,19 +2,42 @@
 <html lang="en">
 
 <head>
+    <!-- Meta SEO Start -->
     <meta charset="UTF-8">
     <title>{{ $disclaimers->meta_title }}</title>
     <meta name="keyword" content="{{ $disclaimers->meta_keywords }}">
     <meta name="description" content="{{ $disclaimers->meta_description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Meta SEO End -->
+
     <!-- Style Link -->
     @include('include.css-link')
     <style>
-         a strong{
+        a strong {
             color: #0b89dd;
         }
-        strong{
+
+        strong {
             color: var(--color-heading-1);
         }
     </style>
@@ -53,7 +76,7 @@
                         <div class="top">
                             <h2 class="title" id="my-border">{{ $disclaimers->name }}</h2>
                             <div class="disc">
-                               {!! $disclaimers->content !!}
+                                {!! $disclaimers->content !!}
                             </div>
                         </div>
 

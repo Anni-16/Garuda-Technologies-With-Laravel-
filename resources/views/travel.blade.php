@@ -2,27 +2,30 @@
 <html lang="en">
 
 <head>
+    <!-- Meta SEO Start -->
     <meta charset="UTF-8">
     <title>Travel Services Gurgaon | Flights, Hotels, Cruises, Car Rental</title>
     <meta name="keyword" content="travel services Gurgaon, flight booking Gurgaon, hotel booking Gurugram, car rental Gurgaon, cruise booking India, corporate travel Gurgaon, travel company Gurugram">
     <meta name="description" content="Book flights, hotels, cruises & car rentals with Garuda Technologies' travel division in Gurgaon. 7 specialized travel brands. Best fares. Corporate & leisure travel. Call now.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon  -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('font-end/travel/assets/images/logo/fav.webp') }}">
-    <!-- Style Link -->
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/fontawesome.css') }}" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/swiper.css') }}" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/metismenu.css') }}" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/magnifying-popup.css') }}" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/odometer.css') }}" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/vendor/bootstrap.min.css') }}" as="style">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet preload" as="style">
-    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/style.css') }}" as="style">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
+    </script>
 
     @verbatim
     <script type="application/ld+json">
@@ -73,6 +76,27 @@
         }
     </script>
     @endverbatim
+
+    <!-- End Google Tag Manager -->
+
+    <!-- Meta SEO End  -->
+
+    <!-- Favicon  -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('font-end/travel/assets/images/logo/fav.webp') }}">
+    <!-- Style Link -->
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/fontawesome.css') }}" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/swiper.css') }}" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/metismenu.css') }}" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/magnifying-popup.css') }}" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/plugins/odometer.css') }}" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/vendor/bootstrap.min.css') }}" as="style">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet preload" as="style">
+    <link rel="stylesheet preload" href="{{ asset('font-end/travel/assets/css/style.css') }}" as="style">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 </head>
 
