@@ -4,10 +4,15 @@
 <head>
     <!-- Meta SEO Start -->
     <meta charset="UTF-8">
-    <title>Garuda Technolohgies - Home</title>
-    <meta name="keyword" content="Garuda Technolohgies - Home">
-    <meta name="description" content="Garuda Technolohgies - Home">
+    <title>IT & Digital Marketing Company in Gurgaon | Garuda Technologies</title>
+    <meta name="description" content="Garuda Technologies is a Gurgaon-based IT and digital marketing company offering SEO, web and app development, and travel services. Book a free consultation.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://garudatechnologies.co.in/">
+
+    <meta name="og:title" content="IT & Digital Marketing Company in Gurgaon | Garuda Technologies">
+    <meta name="og:image" content="https://www.trendtech.in/designer/images/logo.png">
+    <meta name="og:site_name" content="Garuda Technologies">
+    <meta name="og:description" content="SEO, web development, app development and travelservices — delivered by one accountable team in Gurgaon.">
 
     <!-- Google Tag Manager -->
     <script>
@@ -26,6 +31,42 @@
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
     </script>
+    @verbatim
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "ProfessionalService",
+            "name": "Garuda Technologies",
+            "url": "https://garudatechnologies.co.in/",
+            "telephone": "+91-8130150400",
+            "email": "support @garudatechnologies.co.in",
+            "description": "Gurgaon - based IT and digital solutions company
+            offering SEO,
+            digital marketing,
+            web and app development,
+            cloud
+            services,
+            and travel services.
+            ",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Plot No .750,
+                Udyog Vihar Phase V Rd,
+                Phase V,
+                Udyog Vihar,
+                Sector 19,
+                Gurugram,
+                Haryana 122016 ",
+                "addressLocality": "Gurugram",
+                "addressRegion": "Haryana",
+                "postalCode": "122016",
+                "addressCountry": "IN"
+            },
+            "areaServed": "India",
+            "sameAs": ["https://www.linkedin.com/company/garuda-technologies-web"]
+        }
+    </script>
+    @endverbatim
     <!-- End Google Tag Manager -->
 
     <!-- Meta SEO End  -->
@@ -51,13 +92,22 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner-inner-two-content">
-                                        <p class="pre-title"><span>Welcome!</span> Start Growing Your Business Today</p>
-                                        <h1 class="title">Empowering Businesses with Smart IT & Digital Solutions</h1>
-                                        <p class="disc">
-                                            Delivering IT and digital solutions to drive business growth.
-                                            Focused on performance, scalability, and cost-effective results.
+                                        <h1 class="pre-title" style="font-size: 26px;">IT & Digital Marketing Company in Gurgaon — Built for Measurable Growth</h1>
+                                        <p class="title" style="font-size: 48px;">SEO, Web & App Development, and Travel Services Under One AccountableRoof</p>
+                                        <p>
+                                            Garuda Technologies is a Gurgaon-based IT and digital solutions company
+                                            helping businesses grow with performance-driven SEO, modern web and mobile
+                                            app development, and result-focused digital marketing. From our base in Udyog
+                                            Vihar, Sector 19, we serve startups, B2B firms, SaaS companies, and e-
+                                            commerce brands across India — backed by dedicated travel services for
+                                            individuals and corporates.
                                         </p>
-                                        <a href="{{ route('about-us') }}" class="rts-btn btn-primary btn-white">Let More</a>
+
+                                        <div style="display: flex; align-items: center; gap: 0;">
+                                            <a href="{{ route('contact-us') }}" class="rts-btn btn-primary btn-white">Get a Free Growth Audit</a>
+                                            <a href="{{ route('about-us') }}" class="rts-btn btn-primary btn-white">Learn More About Garuda Technologies</a>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -148,11 +198,13 @@
                         <h2 class="title rts-text-anime-style-1" style="perspective: 400px;">
                             <div class="split-line" style="display: block; text-align: center; position: relative;">
                                 <div style="position:relative;display:inline-block;">
-                                    <div style="position: relative; display: inline-block; transform: translate(0px, 0px); opacity: 1;">Comprehensive IT & Travel Services Built for Measurable Business Growth</div>
+                                    <div style="position: relative; display: inline-block; transform: translate(0px, 0px); opacity: 1;">Our Services — SEO, Digital Marketing, Web &amp; App Development in Gurgaon</div>
                                 </div>
                             </div>
                         </h2>
-                        <p style="font-size: 20px;">From improving your Google rankings to booking your next business trip, Garuda Technologies covers the full spectrum. Every service is delivered with a defined scope, a measurable outcome, and a named team member accountable for the result.</p>
+                        <p style="font-size: 20px;">Whether you need to rank higher on Google, launch a high-converting website or
+                            app, or generate qualified B2B leads, Garuda Technologies delivers end-to-end
+                            digital solutions tailored to measurable business outcomes.</p>
                     </div>
                 </div>
             </div>
@@ -238,32 +290,48 @@
                             </h2>
                         </div>
                         <p class="disc">
-                            Every IT company in Gurgaon claims expertise. The difference at Garuda Technologies is accountability: every service engagement defines measurable outcomes upfront, reports against them monthly, and adjusts when the numbers do not move in the right direction. No hiding behind 'it takes time' without a specific plan behind it.
+                            Every IT company in Gurgaon claims expertise. The difference at Garuda
+                            Technologies is accountability: every service engagement defines measurable
+                            outcomes upfront, reports against them monthly, and adjusts when the numbers
+                            do not move in the right direction. No hiding behind <b>"it takes time"</b> without a
+                            specific plan behind it.
                         </p>
                         <div class="check-wrapper-area mb--20 ">
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">Single-Partner Accountability : </b> IT services and travel booking under one roof. One team. One contact number. No vendor fragmentation or misaligned priorities between your digital agency and your IT infrastructure provider.
+                                <b style="color: var(--color-heading-1);">Single-Partner Accountability : </b> IT services and travel booking under one roof. One team. One contact number.
+                                No vendor fragmentation or misaligned priorities between your digital agency and
+                                your IT infrastructure provider.
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color:var(--color-heading-1)">Gurgaon-Based, Nationally Active : </b> Headquartered in Udyog Vihar, Sector 19 — Gurgaon's core IT corridor. In-person consultations available for local clients. Remote delivery for clients across Delhi NCR, Mumbai, Bangalore, and internationally.
+                                <b style="color:var(--color-heading-1)">Gurgaon-Based, Nationally Active : </b> Headquartered in Udyog Vihar, Sector 19 — Gurgaon's core IT corridor. In-
+                                person consultations available for local clients. Remote delivery for clients across
+                                Delhi NCR, Mumbai, Bangalore, and internationally.
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">Outcome Reporting, Not Activity Reporting : </b> Monthly reports show organic sessions, qualified leads, keyword position movement, and revenue attribution — not a list of tasks completed. If a campaign is underperforming, the report says so and explains what changes next.
+                                <b style="color: var(--color-heading-1);">Outcome Reporting, Not Activity Reporting : </b> Monthly reports show organic sessions, qualified leads, keyword position
+                                movement, and revenue attribution — not a list of tasks completed. If a campaign
+                                is underperforming, the report says so and explains what changes next.
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">Technical Depth Across Every Service : </b> SEO built by people who understand crawl architecture. Web development built by developers who understand Core Web Vitals. Cloud infrastructure managed by certified engineers — not generalists wearing multiple hats.
+                                <b style="color: var(--color-heading-1);">Technical Depth Across Every Service : </b> SEO built by people who understand crawl architecture. Web development built
+                                by developers who understand Core Web Vitals. Cloud infrastructure managed
+                                by certified engineers — not generalists wearing multiple hats.
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">No Generic Packages : </b> Every engagement begins with a diagnostic — a site audit for IT services or a requirements discussion for travel. Scope and pricing are defined by what the situation actually needs, not by a Bronze/Silver/Gold package menu.
+                                <b style="color: var(--color-heading-1);">No Generic Packages : </b> Every engagement begins with a diagnostic — a site audit for IT services or a
+                                requirements discussion for travel. Scope and pricing are defined by what the
+                                situation actually needs, not by a Bronze/Silver/Gold package menu.
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                                <b style="color: var(--color-heading-1);">24/7 Support Availability : </b> Hosting failures, travel emergencies, and IT infrastructure issues do not follow business hours. The Garuda Technologies team is reachable at +91-8130150400 around the clock for critical issues across both service verticals.
+                                <b style="color: var(--color-heading-1);">24/7 Support Availability : </b> Hosting failures, travel emergencies, and IT infrastructure issues do not follow
+                                business hours. The Garuda Technologies team is reachable at <a href="tel:+91-8130150400">+91-8130150400</a>
+                                around the clock for critical issues across both service verticals.
                             </div>
                         </div>
                     </div>
@@ -285,30 +353,44 @@
                     <h3>
                         The Standards We Hold Ourselves To
                     </h3>
+                    <p>These are the non-negotiables behind every SEO campaign, web project, and
+                        travel booking we deliver — the rules that keep results measurable, transparent,
+                        and built to last.</p>
                     <div class="check-wrapper-area mb--20 ">
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">IT Services : </b> Every SEO campaign starts with a technical audit. Every web project starts with a requirements brief. No work begins without a defined scope and a measurable success condition.
+                            <b style="color: var(--color-heading-1);">IT Services : </b> Every SEO campaign starts with a technical audit. Every web project starts with
+                            a requirements brief. No work begins without a defined scope and a measurable
+                            success condition.
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">AI & Future-Ready : </b> SEO strategies include GEO optimisation for ChatGPT, Gemini, and Perplexity citation. Content is structured for AI Overviews from the first draft, not retrofitted later.
+                            <b style="color: var(--color-heading-1);">AI & Future-Ready : </b> SEO strategies include GEO optimisation for ChatGPT, Gemini, and Perplexity
+                            citation. Content is structured for AI Overviews from the first draft, not retrofitted
+                            later.
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">Travel Services : </b> Every booking is vetted across multiple fare sources before confirmation. Corporate accounts receive GST-compliant invoicing and a dedicated travel manager.
+                            <b style="color: var(--color-heading-1);">Travel Services : </b> Every booking is vetted across multiple fare sources before confirmation.
+                            Corporate accounts receive GST-compliant invoicing and a dedicated travel
+                            manager.
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">Data-Driven Decisions : </b> Keyword targets are selected from Search Console and Ahrefs data. Paid campaign budgets shift weekly based on cost-per-lead performance, not monthly based on gut feel.
+                            <b style="color: var(--color-heading-1);">Data-Driven Decisions : </b> Keyword targets are selected from Search Console and Ahrefs data. Paid
+                            campaign budgets shift weekly based on cost-per-lead performance, not monthly
+                            based on gut feel.
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">Transparent Communication : </b> Clients receive fortnightly status updates during active project phases. Delays and scope changes are communicated before they become problems, not after.
+                            <b style="color: var(--color-heading-1);">Transparent Communication : </b> Clients receive fortnightly status updates during active project phases. Delays
+                            and scope changes are communicated before they become problems, not after.
                         </div>
                         <div class="single-check">
                             <i class="fa-solid fa-circle-check" style="color: black;"></i>
-                            <b style="color: var(--color-heading-1);">Ethical Practices : </b> No black-hat SEO. No private blog networks. No paid link schemes. No tactics that produce short-term gains followed by Google penalties that cost months to recover from.
+                            <b style="color: var(--color-heading-1);">Ethical Practices : </b> No black-hat SEO. No private blog networks. No paid link schemes. No tactics
+                            that produce short-term gains followed by Google penalties that cost months to
+                            recover from.
                         </div>
                     </div>
                 </div>
@@ -391,9 +473,74 @@
                         <div class="title-style-two mb--40 left">
                             <span class="bg-content">How We Work ?</span>
                             <span class="pre" id="my-border">How We Work ?</span>
-                            <h2 class="title rts-text-anime-style-1">A Structured 5-Step Process Focused on Efficiency, Quality, and Measurable Results
+                            <h2 class="title rts-text-anime-style-1">Our 5-Step Process — From Strategy to Measurable Results
                             </h2>
-                            <p>Every project at Garuda Technologies — whether an SEO campaign, a web application, a cloud migration, or a travel booking — follows a defined process. That structure is not bureaucracy. It is the reason clients receive consistent outcomes rather than inconsistent effort.</p>
+                            <div class="consultancy-style-one">
+                                <div class="signle-consultancy mb--30">
+                                    <div class="icon">
+                                        <i class="fa-solid fa-1"></i>
+                                    </div>
+                                    <div class="information">
+                                        <h4 class="title">Requirement Analysis</h4>
+                                        <p class="disc">
+                                            Discovery sessions to map your goals, audience,
+                                            competitors, and technical needs.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="signle-consultancy mb--20">
+                                    <div class="icon">
+                                        <i class="fa-solid fa-2"></i>
+                                    </div>
+                                    <div class="information">
+                                        <h4 class="title">Strategy & Planning</h4>
+                                        <p class="disc">
+                                            A clear roadmap covering keyword targets, technical
+                                            fixes, content schedules, wireframes, or travel itineraries.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="signle-consultancy mb--20">
+                                    <div class="icon">
+                                        <i class="fa-solid fa-3"></i>
+                                    </div>
+                                    <div class="information">
+                                        <h4 class="title">Design & Development</h4>
+                                        <p class="disc">
+                                            Sprint-based execution with regular client reviews
+                                            and quality checks.
+                                        </p>
+                                    </div>
+
+                                </div>
+                                <div class="signle-consultancy mb--20">
+                                    <div class="icon">
+                                        <i class="fa-solid fa-4"></i>
+                                    </div>
+                                    <div class="information">
+                                        <h4 class="title">Testing & Optimization</h4>
+                                        <p class="disc">
+                                            Multi-browser testing, SEO validation, paid-
+                                            campaign testing, and travel confirmation before launch.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="signle-consultancy mb--20">
+                                    <div class="icon">
+                                        <i class="fa-solid fa-5"></i>
+                                    </div>
+                                    <div class="information">
+                                        <h4 class="title"> Deployment & Ongoing Support</h4>
+                                        <p class="disc">
+                                            Hosting setup, monthly SEO retainers,
+                                            continuous campaign optimisation, and 24/7 travel support.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
+                                    <a href="{{ route('contact-us') }}" class="rts-btn btn-primary">Start Your Project</a>
+                                </div>
+                            </div>
                         </div>
 
                     </div>
@@ -408,72 +555,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="consultancy-style-one">
-                        <div class="signle-consultancy mb--30">
-                            <div class="icon">
-                                <i class="fa-solid fa-1"></i>
-                            </div>
-                            <div class="information">
-                                <h4 class="title">Requirement Analysis</h4>
-                                <p class="disc">
-                                    Every engagement begins with a structured discovery session. We map your business goals, target audience, competitive landscape, and technical constraints before any solution is proposed. For IT projects, this produces a documented scope. For travel bookings, it confirms dates, preferences, budget, and any special requirements. Discovery prevents the misalignment that causes rework, delays, and budget overruns.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="signle-consultancy mb--20">
-                            <div class="icon">
-                                <i class="fa-solid fa-2"></i>
-                            </div>
-                            <div class="information">
-                                <h4 class="title">Strategy & Planning</h4>
-                                <p class="disc">
-                                    Discovery outputs become a documented roadmap. For SEO engagements, this is a 90-day plan with keyword targets, technical fix priorities, and content production schedule. For web development projects, this is a project brief with wireframes, technology stack, and milestone dates. For travel, this is an itinerary with fare options and cancellation terms. The roadmap is shared and agreed before any work begins — no surprises mid-engagement.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="signle-consultancy mb--20">
-                            <div class="icon">
-                                <i class="fa-solid fa-3"></i>
-                            </div>
-                            <div class="information">
-                                <h4 class="title">Design & Development</h4>
-                                <p class="disc">
-                                    Execution follows the roadmap. SEO technical fixes are implemented in priority order — P1 blockers first, then on-page optimisation, then content production. Web and app development follows sprint-based delivery with client review checkpoints at each milestone. Every output at this stage is reviewed against the documented requirements before the client sees it. Internal quality checks prevent defects from reaching delivery.
-                                </p>
-                            </div>
-
-                        </div>
-                        <div class="signle-consultancy mb--20">
-                            <div class="icon">
-                                <i class="fa-solid fa-4"></i>
-                            </div>
-                            <div class="information">
-                                <h4 class="title">Testing & Optimization</h4>
-                                <p class="disc">
-                                    Every deliverable is tested before going live. Web builds are tested across Chrome, Firefox, Safari, and mobile devices for functionality, performance, and Core Web Vitals compliance. SEO implementations are validated in Google Search Console for correct indexation and schema eligibility. Paid campaigns run a test phase before full budget deployment. Travel bookings are confirmed directly with the service provider before the booking confirmation is sent to the client.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="signle-consultancy mb--20">
-                            <div class="icon">
-                                <i class="fa-solid fa-5"></i>
-                            </div>
-                            <div class="information">
-                                <h4 class="title"> Deployment & Ongoing Support</h4>
-                                <p class="disc">
-                                    Delivery is the beginning, not the end. Websites are deployed with hosting, SSL, and backup infrastructure confirmed. SEO retainers continue with monthly reporting, content updates, and link acquisition. Paid campaigns are optimised weekly based on conversion data. Travel bookings are supported 24/7 through the client's journey — any changes, cancellations, or emergencies are handled by the team without the client needing to contact the airline or hotel directly.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
-                            <a href="{{ route('contact-us') }}" class="rts-btn btn-primary">Start Your Project</a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
-        <!-- rts business goal area end -->
     </div>
     <!-- rts How We Work ? area end -->
 
@@ -534,7 +617,7 @@
                         <div class="title-style-two mb--40 left">
                             <span class="bg-content">Review</span>
                             <span class="pre" id="my-border">Our Testimonial</span>
-                            <h2 class="title ">Our Client Reviews
+                            <h2 class="title ">What Our Clients in Gurgaon and Across India Say
                             </h2>
                         </div>
                     </div>
@@ -582,6 +665,184 @@
     </div>
     <!-- rts clients review area end -->
 
+    <!-- rts faq area start -->
+    <div class="rts-breadcrumb-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-area-left center">
+                        <span class="bg-title">FAQ</span>
+                        <h2 class="title rts-text-anime-style-1" id="my-border">
+                            What Our Clients Ask About Our IT & Digital Services
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="shape-area">
+            <img src="{{ asset('font-end/assets/images/about/shape/01.png') }}" alt="shape" class="one">
+            <img src="{{ asset('font-end/assets/images/about/shape/02.png') }}" alt="shape" class="two">
+            <img src="{{ asset('font-end/assets/images/about/shape/03.png') }}" alt="shape" class="three">
+        </div>
+    </div>
+    <div class="rts-faq-area rts-section-gapBottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 pl--50 pr--50" data-animation="fadeInUp" data-delay="0.1">
+                    <div class="thumbnail-about-right-4">
+                        <div class="large-iamge">
+                            <img src="{{ asset('font-end/assets/images/faq/faq-1.jpg') }}" alt="Faq's">
+                        </div>
+                        <div class="small-image images-r">
+                            <img src="{{ asset('font-end/assets/images/faq/faq-2.png') }}" alt="Faq's">
+                        </div>
+                        <div class="poligon-shape images-r">
+                            <img src="{{ asset('font-end/assets/images/about/poligon-shape.svg') }}" alt="shape">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 pl--50 pl_md--0 pl_sm--0 mt_md--50 mt_sm--80" data-animation="fadeInUp" data-delay="0.3">
+                    <div class="accordion faq-wrapper-inner-page" id="faqAccordion">
+
+                        <!-- FAQ 1 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading1">
+                                <button class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse1"
+                                    aria-expanded="false"
+                                    aria-controls="collapse1">
+                                    What does Garuda Technologies do?
+                                </button>
+                            </h2>
+
+                            <div id="collapse1"
+                                class="accordion-collapse collapse"
+                                aria-labelledby="heading1"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Garuda Technologies is a Gurgaon-based IT and digital solutions
+                                    company offering SEO, digital marketing, web and app development,
+                                    cloud services, and travel services — all under one roof.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FAQ 2 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading2">
+                                <button class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse2"
+                                    aria-expanded="false"
+                                    aria-controls="collapse2">
+                                    Do you provide SEO services in Gurgaon?
+                                </button>
+                            </h2>
+
+                            <div id="collapse2"
+                                class="accordion-collapse collapse"
+                                aria-labelledby="heading2"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes. We deliver Local SEO, E-commerce SEO, Enterprise SEO,
+                                    SaaS SEO, and AI SEO/GEO programs for businesses across Gurgaon
+                                    and India.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FAQ 3 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading3">
+                                <button class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse3"
+                                    aria-expanded="false"
+                                    aria-controls="collapse3">
+                                    Are you a web and app development company in Gurgaon?
+                                </button>
+                            </h2>
+
+                            <div id="collapse3"
+                                class="accordion-collapse collapse"
+                                aria-labelledby="heading3"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes. We build custom websites using React, Laravel, WordPress,
+                                    and Shopify, as well as mobile apps using Flutter, React Native,
+                                    and native iOS technologies from our Udyog Vihar office.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FAQ 4 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse4"
+                                    aria-expanded="false"
+                                    aria-controls="collapse4">
+                                    Do you offer travel services as well?
+                                </button>
+                            </h2>
+
+                            <div id="collapse4"
+                                class="accordion-collapse collapse"
+                                aria-labelledby="heading4"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes. Our travel vertical covers flight bookings, hotel reservations,
+                                    cruise packages, and car rentals through seven specialist brands,
+                                    with GST invoicing.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FAQ 5 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading5">
+                                <button class="accordion-button collapsed"
+                                    type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse5"
+                                    aria-expanded="false"
+                                    aria-controls="collapse5">
+                                    How can I contact Garuda Technologies?
+                                </button>
+                            </h2>
+
+                            <div id="collapse5"
+                                class="accordion-collapse collapse"
+                                aria-labelledby="heading5"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Call +91-8130150400, email
+                                    <a href="mailto:support@garudatechnologies.co.in">
+                                        support@garudatechnologies.co.in
+                                    </a>,
+                                    or visit us at Udyog Vihar, Sector 19, Gurugram.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- rts faq area end -->
+
     <!-- rts blog area start -->
     <div class="rts-blog-area rts-section-gapBottom pt--40">
         <div class="container">
@@ -590,7 +851,7 @@
                     <div class="title-style-two center">
                         <span class="bg-content">Blog</span>
                         <span class="pre" id="my-border">Blog & News</span>
-                        <h2 class="title">Recent blog post
+                        <h2 class="title">Digital Marketing & SEO Insights from Garuda Technologies
                         </h2>
                     </div>
                 </div>

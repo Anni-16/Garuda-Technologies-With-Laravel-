@@ -56,3 +56,9 @@
   transition: opacity 0.3s ease-in-out;
 }
 /* ===== Service Hover ====== */
+
+.rts-btn {
+    margin-right: 5px !important;
+    margin-left: 0 !important;
+    align-items: center !important;
+}
