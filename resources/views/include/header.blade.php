@@ -4,6 +4,30 @@
  <!-- End Google Tag Manager (noscript) -->
 
  <header class="header-one header--sticky">
+
+     <div class="brand-marquee">
+         <div class="marquee-content">
+             <div class="marquee-track">
+                 <span class="marquee-text">
+                    Introducing GaruviaFlyTech — The New Identity of Garuda Technologies. Visit Our Website Today!
+                 </span>
+                 <span class="marquee-text" aria-hidden="true">
+                    Introducing GaruviaFlyTech — The New Identity of Garuda Technologies. Visit Our Website Today!
+                 </span>
+                 <span class="marquee-text" aria-hidden="true">
+                    Introducing GaruviaFlyTech — The New Identity of Garuda Technologies. Visit Our Website Today!
+                 </span>
+             </div>
+         </div>
+
+         <a href="https://garuviaflytech.com"
+             target="_blank"
+             rel="noopener noreferrer"
+             class="visit-btn">
+             Visit Website ↗
+         </a>
+     </div>
+
      <div class="header-top-area-wrapper">
          <div class="container">
              <div class="row">
