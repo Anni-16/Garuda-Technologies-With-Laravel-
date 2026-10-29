@@ -1,4 +1,4 @@
-/* ======= garuda technologies to garuviaflytech pop ====== */
+
 <div class="garuvia-popup-overlay" id="garuviaPopupOverlay" role="dialog" aria-modal="true" aria-labelledby="garuviaPopupTitle">
     <div class="garuvia-popup">
         <button class="garuvia-popup-close" id="garuviaPopupClose" type="button" aria-label="Close popup"> &times; </button>
@@ -16,4 +16,18 @@
         <a href="https://garuviaflytech.com" target="_blank" rel="noopener noreferrer" class="garuvia-popup-visit"> Visit Website &#8599; </a>
     </div>
 </div>
-/* ======= garuda technologies to garuviaflytech pop ====== */
+
+
+<script>
+    /* ======= garuda technologies to garuviaflytech pop Js ====== */
+document.addEventListener("DOMContentLoaded", function () {
+    const overlay = document.getElementById("garuviaPopupOverlay");
+    const closeButton = document.getElementById("garuviaPopupClose");
+
+    function closePopup() {
+        overlay.style.display = "none";
+    }
+
+    closeButton.addEventListener("click", closePopup);
+});
+</script>

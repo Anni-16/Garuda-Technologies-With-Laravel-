@@ -12,3 +12,4 @@
  <script defer src="{{ asset('font-end/assets/js/plugins/contact.form.js') }}"></script>
  <script defer src="{{ asset('font-end/assets/js/main.js') }}"></script>
  <script defer src="{{ asset('font-end/assets/js/myjs.js') }}"></script>
+ <script defer src="{{ asset('font-end/assets/js/popup-js.js') }}"></script>

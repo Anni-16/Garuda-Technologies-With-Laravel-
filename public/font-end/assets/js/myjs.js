@@ -15,14 +15,3 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // ====== Service hover Images Change ======
 
-/* ======= garuda technologies to garuviaflytech pop Js ====== */
-document.addEventListener("DOMContentLoaded", function () {
-    const overlay = document.getElementById("garuviaPopupOverlay");
-    const closeButton = document.getElementById("garuviaPopupClose");
-
-    function closePopup() {
-        overlay.style.display = "none";
-    }
-
-    closeButton.addEventListener("click", closePopup);
-});
