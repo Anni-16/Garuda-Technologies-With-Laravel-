@@ -126,7 +126,7 @@
                  <div class="col-6">
                      <div class="text-center">
                          <p>
-                             <a href="{{ route('privacy-policy') }}">Privacy Policy</a>
+                             <a href="{{ route('privacy-policy') }}">Privacy Policy</a> |
                              <span><a href="{{ route('term-and-conditions') }}">Terms & Conditions</a> </span>
                          </p>
 
