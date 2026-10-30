@@ -3,6 +3,9 @@
 
 <head>
     <!-- Meta SEO Start -->
+
+    @include('include.gtm-head')
+
     <meta charset="UTF-8">
     <title>IT & Digital Marketing Company in Gurgaon | Garuda Technologies</title>
     <meta name="description" content="Garuda Technologies is a Gurgaon-based IT and digital marketing company offering SEO, web and app development, and travel services. Book a free consultation.">
@@ -10,27 +13,10 @@
     <link rel="canonical" href="https://garudatechnologies.co.in/">
 
     <meta name="og:title" content="IT & Digital Marketing Company in Gurgaon | Garuda Technologies">
-    <meta name="og:image" content="https://www.trendtech.in/designer/images/logo.png">
+    <meta name="og:image" content="https://www.garudatechnologies.co.in/designer/images/logo.png">
     <meta name="og:site_name" content="Garuda Technologies">
     <meta name="og:description" content="SEO, web development, app development and travelservices — delivered by one accountable team in Gurgaon.">
 
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
-    </script>
     @verbatim
     <script type="application/ld+json">
         {

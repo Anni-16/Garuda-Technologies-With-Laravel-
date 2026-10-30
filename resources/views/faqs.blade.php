@@ -3,30 +3,15 @@
 
 <head>
     <!-- Meta SEO Start -->
+
+    @include('include.gtm-head')
+
     <meta charset="UTF-8">
     <title>FAQ | Garuda Technologies IT & Travel Services Gurgaon</title>
     <meta name="keyword" content="Garuda Technologies FAQ, IT company FAQ Gurgaon, SEO FAQ India, web development FAQ Gurgaon, travel booking FAQ Gurugram, IT services questions India">
     <meta name="description" content="Frequently asked questions about Garuda Technologies' IT services, SEO, web development, and travel bookings in Gurgaon. Get answers before you call.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
-    </script>
-    <!-- End Google Tag Manager -->
 
     @verbatim
     <script type="application/ld+json">

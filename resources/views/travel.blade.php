@@ -3,29 +3,15 @@
 
 <head>
     <!-- Meta SEO Start -->
+
+    @include('include.gtm-head')
+
     <meta charset="UTF-8">
     <title>Travel Services Gurgaon | Flights, Hotels, Cruises, Car Rental</title>
     <meta name="keyword" content="travel services Gurgaon, flight booking Gurgaon, hotel booking Gurugram, car rental Gurgaon, cruise booking India, corporate travel Gurgaon, travel company Gurugram">
     <meta name="description" content="Book flights, hotels, cruises & car rentals with Garuda Technologies' travel division in Gurgaon. 7 specialized travel brands. Best fares. Corporate & leisure travel. Call now.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NXWWF4SZ');
-    </script>
 
     @verbatim
     <script type="application/ld+json">
