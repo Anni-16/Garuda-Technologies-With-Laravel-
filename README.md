@@ -1,3 +1,169 @@
+# 🚀 Garuda Technologies
+
+### Laravel-Based Company Website
+
+🌐 **Live Website:** [garudatechnologies.co.in](https://garudatechnologies.co.in)
+
+Garuda Technologies is a web development project built using the Laravel PHP framework. It is designed to establish a professional online presence and showcase company information, technology services, and digital solutions through a modern web interface.
+
+---
+
+## 📌 About The Project
+
+Garuda Technologies is a Laravel-based website developed with a focus on clean design, responsive layouts, and a smooth user experience.
+
+The project demonstrates the use of modern web development technologies to build and manage a professional business website.
+
+## ✨ Key Features
+
+- 🌐 Professional Company Website
+- 📱 Responsive Website Design
+- 🎨 Modern User Interface
+- ⚡ Laravel-Based Backend
+- 📄 Company Information Pages
+- 💻 Modern Web Technologies
+- 🔧 Maintainable Code Structure
+
+_Note: Update this feature list according to the actual implemented functionality._
+
+## 🛠️ Technologies Used
+
+- **Backend:** PHP, Laravel
+- **Frontend:** HTML5, CSS3, JavaScript
+- **CSS Framework:** Bootstrap (if used)
+- **Database:** MySQL (if configured)
+- **Version Control:** Git & GitHub
+
+## 🌍 Live Website
+
+Visit the official website:
+
+👉 https://garudatechnologies.co.in
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Garuda-Technologies-With-Laravel-.git
+```
+
+### 2. Navigate to Project Folder
+
+```bash
+cd Garuda-Technologies-With-Laravel-
+```
+
+### 3. Install Composer Dependencies
+
+```bash
+composer install
+```
+
+### 4. Create Environment File
+
+```bash
+cp .env.example .env
+```
+
+### 5. Generate Application Key
+
+```bash
+php artisan key:generate
+```
+
+### 6. Configure Database
+
+Update database credentials in the `.env` file if your project uses a database.
+
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+```
+
+### 7. Run Database Migrations
+
+```bash
+php artisan migrate
+```
+
+_Run this step if database migrations are included._
+
+### 8. Install Frontend Dependencies
+
+```bash
+npm install
+npm run build
+```
+
+_If the project uses Vite or npm-based frontend assets._
+
+### 9. Start Development Server
+
+```bash
+php artisan serve
+```
+
+Open your browser:
+
+```text
+http://127.0.0.1:8000
+```
+
+## 📸 Screenshots
+
+Add screenshots of your website here.
+
+<!-- Example:
+![Garuda Technologies Homepage](screenshots/homepage.png)
+-->
+
+## 📁 Project Structure
+
+```text
+Garuda-Technologies-With-Laravel-/
+│
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+├── resources/
+├── routes/
+├── storage/
+├── tests/
+├── .env.example
+├── artisan
+├── composer.json
+├── package.json
+└── README.md
+```
+
+## 🎯 Project Objective
+
+The objective of this project is to build a professional web presence using Laravel and modern web technologies, providing visitors with an accessible and user-friendly platform to explore company information and services.
+
+## 👨‍💻 Developer
+
+Developed with ❤️ using Laravel,filament and PHP.
+
+## 🔗 Useful Links
+
+- **Official Website:** https://garudatechnologies.co.in
+- **GitHub Repository:** This repository
+
+## 📄 License
+
+This project is available for learning and development purposes. Please contact the project owner for usage or distribution permissions.
+
+<hr>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
