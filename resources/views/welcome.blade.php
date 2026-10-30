@@ -231,6 +231,21 @@
                                 </div>
                             </div>
                             @endforeach
+                            <div class="col-lg-4 col-md-6">
+                                <div class="service-box">
+                                    <div class="icons">
+                                        <img style="width:70px;" loading="lazy" src="{{ asset('font-end/assets/images/icons/life-support.png') }}" alt="Travel Services">
+                                    </div>
+                                    <div class="information mt-4">
+                                        <h5 class="title">Travel Services</h5>
+                                        <p class="disc">Garuda Technologies' travel division delivers flight booking, hotel reservations, cruise packages, and car rental services for individual travelers, families, business travelers</p>
+                                        <a href="{{ route('travel-services') }}" target="_blank" class="arrow-right">
+                                            <i class="fa-solid fa-arrow-right"></i>
+                                            <span>View All Travel Service</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
 

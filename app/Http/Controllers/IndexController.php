@@ -25,7 +25,7 @@ class IndexController extends Controller
 
         $servicecategories2 = ServiceCategory::where('is_active', 1)
             ->orderBy('created_at', 'asc')
-            ->limit(6)
+            ->limit(5)
             ->get();
 
         // For Teams
